@@ -68,7 +68,7 @@ export default function Home() {
         <section className="h-screen w-full">
           <div className="md:py-20 py-6 h-full relative flex flex-col gap-4 justify-center items-center">
             <Image
-              src={"/fruits.png"}
+              src={"https://res.cloudinary.com/dpmfaivww/image/upload/v1742637556/qtae56e7cwkkv195tzjt.png"}
               alt=""
               height={1200}
               width={1400}
